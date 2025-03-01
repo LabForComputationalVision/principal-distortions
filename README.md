@@ -5,7 +5,7 @@ This code accompanies our [2025 ICLR Paper](https://openreview.net/pdf?id=ugXGFC
 
 You can install directly from GitHub using `pip`:
 
-```pip install git+https://github.com/jenellefeather/principal-distortions.git```
+```pip install git+https://github.com/LabForComputationalVision/principal-distortions.git```
 
 
 
